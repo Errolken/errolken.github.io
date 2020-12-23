@@ -1,0 +1,31 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.name{
+	background-color:#1e2327;
+	color:#FFFFFF;
+	height:px;
+	text-align:center;
+}
+.heading{
+	font-weight:700px;
+	font-size:40px;
+	font-family: 'Open Sans', sans-serif;
+}
+.mail{ 
+	text-align:center;
+	margin:15px 0px 10px;
+}
+.mailicon{
+    margin-bottom: 7px;
+}
+.sub{
+	font-size:18px;
+}
+h2{
+	font-size:2rem;
+}	
+.about,.subprof{
+	font-size:22px;
+}
